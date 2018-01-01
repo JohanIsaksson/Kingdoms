@@ -1,0 +1,4 @@
+C:\Users\Johan Isaksson\documents\visual studio 2010\Projects\Kingdoms\Kingdoms\KingdomsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johan Isaksson\Downloads\Kingdoms\Kingdoms\KingdomsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johan Isaksson\Desktop\Projekt Arbete\XNA C#\Kingdoms\Kingdoms\KingdomsContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Johan Isaksson\Documents\Projekt Arbete\XNA C#\Kingdoms\Kingdoms\KingdomsContent\obj\x86\Debug\ResolveAssemblyReference.cache
